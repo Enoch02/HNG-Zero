@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.enoch02.hngzero"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.enoch02.hngzero"
